@@ -1,1 +1,1 @@
-![Image of Yaktocat. Just don't know how to add image to repo](https://octodex.github.com/images/yaktocat.png)
+![My GitHub Avatar](https://avatars2.githubusercontent.com/u/2125311)
